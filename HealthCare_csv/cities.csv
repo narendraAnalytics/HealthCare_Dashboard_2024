@@ -1,0 +1,55 @@
+State_ID,State,City_ID,City
+1,Maharashtra,101,Mumbai
+1,Maharashtra,102,Pune
+1,Maharashtra,103,Nagpur
+2,Karnataka,201,Bengaluru
+2,Karnataka,202,Mysuru
+2,Karnataka,203,Hubli
+3,Tamil Nadu,301,Chennai
+3,Tamil Nadu,302,Coimbatore
+3,Tamil Nadu,303,Madurai
+4,Uttar Pradesh,401,Lucknow
+4,Uttar Pradesh,402,Kanpur
+4,Uttar Pradesh,403,Varanasi
+5,West Bengal,501,Kolkata
+5,West Bengal,502,Howrah
+5,West Bengal,503,Darjeeling
+6,Gujarat,601,Ahmedabad
+6,Gujarat,602,Surat
+6,Gujarat,603,Vadodara
+7,Rajasthan,701,Jaipur
+7,Rajasthan,702,Udaipur
+7,Rajasthan,703,Jodhpur
+8,Punjab,801,Amritsar
+8,Punjab,802,Ludhiana
+8,Punjab,803,Patiala
+9,Madhya Pradesh,901,Bhopal
+9,Madhya Pradesh,902,Indore
+9,Madhya Pradesh,903,Gwalior
+10,Bihar,1001,Patna
+10,Bihar,1002,Gaya
+10,Bihar,1003,Bhagalpur
+11,Andhra Pradesh,1101,Visakhapatnam
+11,Andhra Pradesh,1102,Vijayawada
+11,Andhra Pradesh,1103,Guntur
+12,Assam,1201,Guwahati
+12,Assam,1202,Dibrugarh
+12,Assam,1203,Silchar
+13,Chhattisgarh,1301,Raipur
+13,Chhattisgarh,1302,Bilaspur
+13,Chhattisgarh,1303,Durg
+14,Goa,1401,Panaji
+14,Goa,1402,Margao
+14,Goa,1403,Vasco da Gama
+15,Haryana,1501,Gurugram
+15,Haryana,1502,Faridabad
+15,Haryana,1503,Panipat
+16,Himachal Pradesh,1601,Shimla
+16,Himachal Pradesh,1602,Dharamshala
+16,Himachal Pradesh,1603,Manali
+17,Jharkhand,1701,Ranchi
+17,Jharkhand,1702,Jamshedpur
+17,Jharkhand,1703,Dhanbad
+18,Kerala,1801,Thiruvananthapuram
+18,Kerala,1802,Kochi
+18,Kerala,1803,Kozhikode
