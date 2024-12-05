@@ -3,6 +3,10 @@
 # Project Title
 ![Banner Image](Images/banner_Image.jpg)
 
+
+### Power BI Dashboard
+Access the interactive dashboard here: [HealthCare DashBoard Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzRiYTk1M2EtMzFkZS00Y2MyLWIxYTAtZmE4ZGRhMmYxZDJhIiwidCI6ImEyZWE5ODRlLTlkYzYtNDU5ZS1iNDFkLTY1YWJmYWEzMTExYyJ9)
+
 Project Overview
 
 This project involves the analysis of various datasets related to healthcare, including information on patients, providers, diagnoses, procedures, and visits. The purpose of this project is to conduct exploratory data analysis (EDA), build visualizations, and gain insights that can inform decision-making in a healthcare setting.
